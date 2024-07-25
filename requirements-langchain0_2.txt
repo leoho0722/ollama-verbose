@@ -1,0 +1,8 @@
+langchain==0.2.11
+langchain-community=0.2.10
+langchain-core==0.2.23
+langchain-ollama==0.1.0
+
+pip
+setuptools
+pip-autoremove
